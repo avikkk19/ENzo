@@ -1,4 +1,5 @@
 import Section from "./Section";
+import React from "react";
 import { smallSphere, stars } from "../assets";
 import Heading from "./Headings";
 import PricingList from "./fonelist";

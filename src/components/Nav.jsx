@@ -6,6 +6,7 @@ import Button from "./Button";
 import MenuSvg from "../assets/svg/MenuSvg";
 import ButtonGradient from "../assets/svg/ButtonGradient";
 import { socials } from "../constants";
+import React from "react";
 
 const Nav = () => {
   const [openNavigation, setOpenNavigation] = useState(false);
